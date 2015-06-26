@@ -1,0 +1,374 @@
+/* style.css
+ *
+ *Revision History:
+ *	Dewang Patel, v1.0, 2013-06-23
+ */
+ 
+ 
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#FFF; padding:0px; margin:0px auto; background:url(../images/body-bg.jpg) left top  #515349 repeat-x;}
+
+*{padding:0px; margin:0px auto;}
+
+p{padding:0px; margin:0px auto;}
+
+img{padding:0px; margin:0px auto;}
+
+.clear{clear:both;}
+
+#wrap{width:100%; height:auto; text-align:center; padding:0px; margin:0px auto; background:url(../images/footer-bg.jpg) bottom repeat-x;}
+
+/*Main Layout Starts Here*/
+
+.main_layout{width:980px; padding:0px; height:auto; margin:0px auto; text-align:center;}
+
+/*Main Layout Ends Here*/
+
+/*Header Part Satrts Here*/
+
+#header-part{width:980px; height:614px; padding:0px; margin:0px;}
+
+/*Header Top Box starts Here*/
+
+.header_top_box{width:980px; height:176px; padding:0px; margin:0px;}
+
+/*Top Icon Part Starts Here*/
+
+.top_icon_part{width:980px; height:120px; padding:0x; margin:0px;}
+
+/*Logo Icon Box Starts Here*/
+
+.logo_icon_box{width:341px; height:100px; padding:0px 0px 20px 0px; margin:0px; background:url(../images/logo_icon.jpg) no-repeat; float:left;} 
+
+/*Logo Icon Box Ends Here*/
+
+/*Main Contact Box Starts Here*/
+
+.main_contact_box{width:639px; height:120px; padding:0px; margin:0px; float:right;}
+
+/*Contact Box Starts Here*/
+
+.contact_box{width:169px; height:55px; padding:29px 54px 36px 416px; margin:0px; float:right;}
+
+/*Contacts Icon Starts Here*/
+
+.contacts_icon{width:25px; height:55px; padding:0px; margin:0px; background:url(../images/contacts_icon.jpg) no-repeat; float:left}
+
+/*Contacts Icon Ends Here*/
+
+/*Contact Phone No. Starts Here*/
+
+.contact_text{width:144px; height:55px; padding:0px; height:0px; float:right;}
+
+/*Contact Phone No. Ends Here*/
+
+/*Contact Box Ends Here*/
+
+/*Main Contact Box Ends Here*/
+
+/*Top Icon Part Ends Here*/
+
+/*Main Menu Part Starts Here*/
+
+.main_menu{width:980px; height:51px; padding:0px; margin:0px; background:url(../images/menu_bg.jpg) top repeat-x;}
+
+.nav{width:570px; height:51px; padding:0px 205px 0px 205px; margin:0px; float:left;}
+
+.nav ul{width:570px; height:51px; padding:0px 0px 0px 20px; margin:0px; font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#FFF; border:0px;}
+
+.nav ul li{list-style-type:none; float:left; padding:0px; margin:0px; text-align:center; display:block; margin-right:20px;}
+
+.nav ul li a{display:block; font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#FFF; padding:0px; margin:0px; text-decoration:none; line-height:51px; width:90px; height:51px;}
+
+.nav ul li a:hover{font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#FFF; text-decoration:none; line-height:51px; background:url(../images/menu_hover_bg.jpg) repeat-x
+; width:90px; height:51px;}
+
+
+
+
+/*Main Menu Part ends Here*/
+
+/*Header Top Box Ends Here*/
+
+/*Header Bottom Box starts Here*/
+
+.header_bottom_box{width:980px; height:438px; padding:0px; margin:0px;}
+
+/*Main Banner Box Starts Here*/
+.main_banner_box{width:980px; height:390px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;background:url(../images/banner_box.jpg) no-repeat;} 
+
+/*Banner Image Starts Here*/
+.banner_Image{width:980px; height:360px; padding:0px; margin:0px;}
+
+/*Banner Image Ends Here*/
+
+/*Main Banner Box Ends Here*/
+
+/*Divider Starts Here*/
+
+.divider{width:980px; height:2px; padding:0px; margin:0px; background:url(../images/divider.jpg) left bottom repeat-x;}
+
+/*Divider Ends Here*/
+
+/*Header Bottom Box Ends Here*/
+
+/*Header Part Ends Here*/
+
+/*Baody Part Starts Here*/
+
+#body-part{width:980px; height:auto; padding:0px; margin:0px;}
+
+/*body box starts here*/
+
+.body_box{width:980px; height:auto; padding:0px; margin:opx;}
+
+4/*Body Pic Box Starts Here*/
+
+.body_pic_box{width:300px; height:150px; padding:0px 0px 30px 0px; margin:0px;}
+
+/*Body Pic Box Ends here*/
+
+/*Body Box Bottom Text Starts Here*/
+
+.bottom_text{width:300px; height:auto; padding:0px 0px 50px 0px; margin:0px; text-align:justify; font-family:Tahoma, Geneva, sans-serif; font-size:18px; color:#FFF;}
+
+/*Body Box Bottom Text Ends Here*/ 
+
+/*Read More Starts Here*/
+
+
+
+.readmore{width:300px; height:auto; padding:0px; margin:0px; text-align:left; font-family:Tahoma, Geneva, sans-serif; font-size:11px; color:#FFF;}
+
+A.readmore:link{font-family:Tahoma, Geneva, sans-serif; font-size:11px; color:#FFF; text-align:left; text-decoration:none;}
+
+A.readmore:visited{font-family:Tahoma, Geneva, sans-serif; font-size:11px; color:#FFF; text-align:left; text-decoration:none;}
+
+A.readmore:hover{font-family:Tahoma, Geneva, sans-serif; font-size:11px; color:#000066; text-align:left; text-decoration:none;}
+
+/*Read More Ends Here*/
+/*body box1 starts here*/
+
+.body_box_1{width:300px; height:auto; padding:0px 20px 0px 20px; margin:0px; float:left;}
+
+/*Box1 Starts Here*/
+
+.box1{width:300px; height:auto; padding:0px; margin:0px;}
+
+.body_text_box{width:300px; height:18px; padding:0px 0px 42px 0px; margin:0px;}
+
+/*Body Head Text Starts Here*/
+
+.body_head_text{width:300px; height:18px; padding:0px; margin:0px; text-align:center; font-family:Tahoma, Geneva, sans-serif; font-size:18px; color:ffffff; font-weight:bold;}
+
+/*Body Head Text Ends Here*/
+
+/*Pic Box 1 Starts Here*/
+
+.pic_box1{width:300px; height:150px; padding:0px; margin:0px; background:url(../images/picbox_1.jpg) no-repeat;} 
+
+/*Pic Box 1 Ends Here*/
+
+/*Box1 Ends Here*/
+
+
+
+/*Body Box1 Ends Here*/
+
+
+/*Body Box2 Starts Here*/
+
+.body_box_2{width:300px; height:auto; padding:0px 20px 0px 0px; margin:0px; float:left;}
+
+/*Box2 Starts Here*/
+
+.box2{width:300px; height:auto; padding:0px; margin:0px;}
+
+/*Pic Box 1 Starts Here*/
+
+.pic_box2{width:300px; height:150px; padding:0px; margin:0px; background:url(../images/picbox_2.jpg) no-repeat;} 
+
+/*Pic Box 1 Ends Here*/
+
+/*Box2 Ends Here*/
+
+/*Body Box2 Ends Here*/
+
+/*Body Box3 Starts Here*/
+
+.body_box_3{width:300px; height:auto; padding:0px 20px 0px 0px; margin:0px; float:right;}
+
+/*Box3 Starts Here*/
+
+.box3{width:300px; height:auto; padding:0px; margin:0px;}
+
+/*Pic Box 3 Starts Here*/
+
+.pic_box3{width:300px; height:150px; padding:0px; margin:0px; background:url(../images/picbox_3.jpg) no-repeat;} 
+
+/*Pic Box 3 Ends Here*/
+
+/*Box3 Ends Here*/
+
+/*Body Box3 Ends Here*/
+
+/*Body Part Ends Here*/
+
+/*Footer Part Starts Here*/
+
+#footer-part{width:980px; height:414px; padding:0px; margin:0px; clear:both; background:url(../images/footer-img.jpg) no-repeat;}
+
+/*Footer Box Starts Here*/
+
+.footer_box{width:355px; height:30px; padding:343px 52px 41px 573px; margin:0px;}
+
+.footer_box_inner{width:355px; height:34px; padding:0px; margin:0px;}
+
+.footer_top_box{width:355px; height:14px; padding:0px 0px 0px 15px; margin:0px;}
+
+.footer_bottom_box{width:355px; height:20px; padding:0px; margin:0px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; text-align:center;}
+
+/*Footer MEnu Starts Here*/
+
+.text-zone ul{
+                font-family:Tahoma;
+				font-size:14px;
+				color:#FFF;
+				border:0;
+				padding:0;
+				margin:0;
+				
+				
+				}
+				
+.text-zone ul li{
+                   list-style-type:none;
+				   line-height:14px;
+				   padding:0;
+				   margin:0;
+				   display:block;
+				   float:left;
+				   text-decoration:none;
+				   margin-right:10px;
+				   
+				   }
+				   
+.text-zone ul li a{
+                     font-family:Tahoma;
+					 font-size:14px;
+					 color:#FFF;
+					 padding:0;
+					 margin:0;
+					 line-height:14px;
+					 display:block;
+					 text-decoration:none;
+					
+					 }				   										 
+
+.text-zone ul li a:hover{
+                          font-family:Tahoma;
+						  font-size:14px;
+						  color:#e8fc82;
+						  line-height:14px;
+						  text-decoration:underline;
+						  }	
+
+/*Footer Menu Ends Here*/
+
+/*Footer Box Ends Here*/
+
+/*Footer Part Ends Here*/
+
+
+
+/*Contact Body Starts Here*/
+
+/*Body left box starts here*/
+
+.body_box_left{width:470px; height:auto; padding:12px 0px 0px 18px; margin:0px; float:left;}
+
+.body_box_left_in{width:470px; height:auto; padding:0px; margin:0px; border-right:solid 1px #e6e6e6;}
+
+.left_head_text{width:470px; height:18px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#FFF; text-align:left; font-weight:bold;}
+
+.left_text{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#b9bfb9; text-align:left;}
+
+.submit{width:72px; height:23px; padding:30px 378px 15px 20px; margin: 0px;}
+
+/*Body left box Ends here*/
+
+/*Body right box starts here*/
+
+.body_box_right{width:490px; height:auto; padding:0px; margin:0px; float:right;}
+
+.main_map_box{width:384px; height:253px; padding:40px 53px 0px 53px; margin:0px;}
+
+.map_box{width:384px; height:253px; padding:0px; margin:0px;}
+
+.address{width:384px; height:auto; padding:30px 53px 0px 53px; margin:0px;}
+
+.address_text{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; color:#b9bfb9;}
+
+/*Body right box Ends here*/
+
+/*Contact Body Ends Here*/
+
+input{width:300px; height:26px; padding:0px; margin:0px; text-align:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666; float:left;}
+
+.check_box{text-align:left; padding:0px; margin:0px; width:20px; height:20px;} 
+
+/*Gallery Body Starts Here*/
+
+.gallery_head_text{width:980px; height:auto; padding:0px 0px 50px 0px; margin:0px; font-family:"Comic Sans MS", cursive; font-size:28px; color:#CCC; text-align:left; text-decoration:underline; font-weight:bold;}
+
+.gallery_box{width:980px; height:150px; padding:0px 0px 50px 0px; margin:0px;}
+
+.pic_box_bg{width:300px; height:150px; padding:0px; margin:0px; float:left; background:url(../images/gallery_pic_bg.jpg) no-repeat;}
+
+.pic_box_o{width:280px; height:130px; padding:10px 10px 10px 10px; margin:0px;}
+
+.pic_box_in{width:280px; height:130px; padding:0px; margin:0px;}
+
+.text{width:620px; height:auto; padding:20px 30px 0px 30px; margin:0px; float:right; font-family:Arial, Helvetica, sans-serif; font-size:14px; text-align:left; color:#FFF;}
+
+/*Gallery Body Ends Here*/
+
+/*Blog Body Starts Here*/
+
+.blogs_area{width:980px; height:auto; padding:0px; margin:0px;}
+
+.blog_head_text{width:980px; height:auto; padding:30px 0px 50px 0px; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#FFF; text-align:left;}
+
+.blog_pic_box{width:980px; height:220px; padding:0px; margin:0px;}
+
+.blog_pic_box_o{width:580px; height:220px; padding:0px; margin:0px; background:url(../images/blog_bg.jpg) no-repeat; float:left;}
+
+.blog_pic_in{width:560px; height:200px; padding:10px 10px 10px 10px; margin:0px;}
+
+.blog_pic{width:560px; height:200px; padding:0px; margin:0px;}
+
+.blog_bottom_text{width:980px; height:auto; padding:30px 0px 0px 0px; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#CCC; text-align:left;}
+
+/*Blog Body Ends Here*/
+
+/*About Us Body Starts Here*/
+
+.about_us_head_text{width:980px; height:auto; padding:30px 0px 30px 0px; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#CCC; text-align:left;}
+
+.about_us_column{width:980px; height:auto; padding:0px 0px 50px 0px; margin:0px;}
+
+.about_us_pic_text{width:980px; height:200px; padding:0px; margin:0px;}
+
+.about_us_pic_o{width:200px; height:200px; padding:0px; margin:0px;}
+
+.about_us_pic_box_bg{width:200px; height:200px; padding:0px; margin:0px; background:url(../images/about_us_pic_bg.jpg) no-repeat;}
+
+.about_us_pic_box{width:180px; height:180px; padding:10px 10px 10px 10px; margin:0px;}
+
+.about_us_pic_in{width:180px; height:180px; padding:0px; margin:0px;}
+
+.about_us_text{width:750px; height:auto; padding:30px 0px 0px 30px; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FFF; text-align:justify;}
+
+/*About Us Body Ends Here*/

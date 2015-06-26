@@ -1,0 +1,1 @@
+This is a dummy website for a golf club. It is made using HTML and CSS.
